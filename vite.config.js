@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/mini-imdb-clone"
+  base: "/mini-imdb-clone/"
 })
